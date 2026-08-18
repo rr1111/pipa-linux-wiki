@@ -49,5 +49,5 @@ is the ARM port of the Artix Linux Distro, a fork of Arch that doesnt use the Sy
 [Auris, the Artix User Repository of Init Scripts](https://auris.artixlinux.org/auris)  
 
 [:material-linux:](../kernel.md/#pipa-mainline-kernel) main: pipa-mainline, 6.15.11
-[:material-linux:](../kernel.md/#pipadb-kernel) strawberry: pipaDB, 7.0.8  
+[:material-linux:](../kernel.md/#pipadb-kernel) strawberry: pipaDB, 7.1.7  
 [Source :material-github:](https://github.com/Neo10e/armtix-xiaomi-pipa){ .md-button .md-button--primary } [Images :material-download: ](https://github.com/Neo10e/armtix-xiaomi-pipa/releases/latest){ .md-button } [PKGBUILDs :material-package: ](https://github.com/Neo10e/PKGBUILDs-pipa){ .md-button }

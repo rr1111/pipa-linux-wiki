@@ -11,5 +11,5 @@ is one of the largest and oldest mobile Linux projects. Based on Alpine Linux, i
 - Can be unstable (in my Experience, while testing Phosh)
 - No Keyboard and Pen support on latest Kernel versions
 
-[:material-linux:](../kernel.md/#postmarketos-kernel) postmarketOS, 7.0.6  
+[:material-linux:](../kernel.md/#postmarketos-kernel) postmarketOS, 7.1.4  
 [pipa Wiki :material-book:](https://wiki.postmarketos.org/wiki/Xiaomi_Pad_6_(xiaomi-pipa)){ .md-button .md-button--primary } [Web :material-web: ](https://postmarketos.org){ .md-button } [pmbootstrap :material-download: ](https://wiki.postmarketos.org/wiki/Pmbootstrap){ .md-button }  

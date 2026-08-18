@@ -34,7 +34,7 @@ Currently, the 6.18.2 branch of pipa-mainline seems to be the most stable, at le
 
 ### pipaDB Kernel
 - source at [github.com/pipaDB/linux](https://github.com/pipaDB/linux)
-- latest version: `7.0.8`
+- latest version: `7.1.7`
 - 'close-to'-mainline
 - DP alt mode audio, front camera, ~~25w charging~~ working on newest branches
 
@@ -49,6 +49,6 @@ Currently, the 6.18.2 branch of pipa-mainline seems to be the most stable, at le
 
 ### postmarketOS Kernel
 - source at [gitlab.postmarketos.org/postmarketOS/pmaports/-/tree/main/device/testing/linux-xiaomi-pipa](https://gitlab.postmarketos.org/postmarketOS/pmaports/-/tree/main/device/testing/linux-xiaomi-pipa)
-- latest version: `7.0.6`
+- latest version: `7.1.4`
 - mainline kernel with separate patches
 - seemingly no support for the Xiaomi Pen & Keyboard at this time

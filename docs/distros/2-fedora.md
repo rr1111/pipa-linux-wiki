@@ -28,7 +28,7 @@ Pocketblue will probably be your best Choice if you want a stably OS for daily u
 [Switching from kxboot to Silicium UEFI & GRUB on a running System](https://github.com/pocketblue/pocketblue/issues/223)  
 [Fedora Atomic Documentation](https://docs.fedoraproject.org/en-US/atomic-desktops/getting-started/)  
 
-[:material-linux:](../kernel.md/#pipa-mainline-kernel): pipa-mainline, 6.18.2  
+[:material-linux:](../kernel.md/#pipadb-kernel): pipaDB, 7.1.7  
 [Source :material-github:](https://github.com/pocketblue/pocketblue){ .md-button .md-button--primary } [Wiki :material-book:](https://pocketblue.github.io){ .md-button } [Images :material-download: ](https://github.com/pocketblue/pocketblue/releases/latest){ .md-button } [COPR :material-package: ](https://copr.fedorainfracloud.org/coprs/pocketblue){ .md-button }
 
 
@@ -46,7 +46,7 @@ Probably your best choice if you have prior Linux experience and want an up-to-d
 - Things might break on updates as the maintainer has little control over a running System
 - Might miss default packages (Fonts, etc ...)
 
-[:material-linux:](../kernel.md/#pipadb-kernel) pipaDB, 7.0.8  
+[:material-linux:](../kernel.md/#pipadb-kernel) pipaDB, 7.1.7  
 [rr1111 Source :material-github:](https://github.com/rr1111/pipa-fedora-builder-43){ .md-button .md-button--primary } [Images :material-download: ](https://github.com/rr1111/pipa-fedora-builder-43/releases/latest){ .md-button } [COPR :material-package: ](https://copr.fedorainfracloud.org/coprs/reyr111/pipa-packages){ .md-button }   
 
 [:material-linux:]() 6.15.11  
